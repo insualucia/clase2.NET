@@ -1,0 +1,15 @@
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\bin\Debug\net6.0\Clase 2.exe
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\bin\Debug\net6.0\Clase 2.deps.json
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\bin\Debug\net6.0\Clase 2.runtimeconfig.json
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\bin\Debug\net6.0\Clase 2.dll
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\bin\Debug\net6.0\Clase 2.pdb
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.dll
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\refint\Clase 2.dll
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.pdb
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\Clase 2.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\geek\FX Capacitación\.NET\2\Clase 2\Clase 2\obj\Debug\net6.0\ref\Clase 2.dll
