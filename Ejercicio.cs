@@ -18,7 +18,7 @@ public class Class1
         //Consumidores
         int arrayCurrentIndex = 0;
         bool userType;
-
+        //rrrrrrrrrrrrrr
         //Trabajadores
         const int contraseña = 1234;
 
